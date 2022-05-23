@@ -1,0 +1,556 @@
+<!DOCTYPE html>
+<!--[if lte IE 8]> <html class="ie9 ie8-7"> <![endif]-->
+<!--[if IE 9]> <html class="ie9"> <![endif]-->
+<!--[if !IE]>-->
+<html lang="en-US">
+<!--<![endif]-->
+<head><style>img.lazy{min-height:1px}</style><link rel="preload" href="https://www.gwelectric.com/webfoo/wp-content/plugins/w3-total-cache/pub/js/lazyload.min.js" as="script">
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="dns-prefetch" href="//ajax.googleapis.com" /><!-- Grabs repo files quicker -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><!-- This + conditionals above destroy edge detection issues -->
+<meta http-equiv="imagetoolbar" content="false" /><!-- Kills IE6 Image toolbar -->
+
+<title>Page not found - G&amp;W Electric</title>
+
+<!-- Disables Scaling on multi-touch interfaces -->
+<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
+
+<!-- Favicon -->
+<link rel="apple-touch-icon" sizes="57x57" href="https://www.gwelectric.com/webfoo/wp-content/themes/gwelectric/assets/images/favicon.ico/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://www.gwelectric.com/webfoo/wp-content/themes/gwelectric/assets/images/favicon.ico/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://www.gwelectric.com/webfoo/wp-content/themes/gwelectric/assets/images/favicon.ico/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://www.gwelectric.com/webfoo/wp-content/themes/gwelectric/assets/images/favicon.ico/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://www.gwelectric.com/webfoo/wp-content/themes/gwelectric/assets/images/favicon.ico/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://www.gwelectric.com/webfoo/wp-content/themes/gwelectric/assets/images/favicon.ico/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://www.gwelectric.com/webfoo/wp-content/themes/gwelectric/assets/images/favicon.ico/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://www.gwelectric.com/webfoo/wp-content/themes/gwelectric/assets/images/favicon.ico/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.gwelectric.com/webfoo/wp-content/themes/gwelectric/assets/images/favicon.ico/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="https://www.gwelectric.com/webfoo/wp-content/themes/gwelectric/assets/images/favicon.ico/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.gwelectric.com/webfoo/wp-content/themes/gwelectric/assets/images/favicon.ico/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="https://www.gwelectric.com/webfoo/wp-content/themes/gwelectric/assets/images/favicon.ico/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.gwelectric.com/webfoo/wp-content/themes/gwelectric/assets/images/favicon.ico/favicon-16x16.png">
+<link rel="manifest" href="https://www.gwelectric.com/webfoo/wp-content/themes/gwelectric/assets/images/favicon.ico/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="https://www.gwelectric.com/webfoo/wp-content/themes/gwelectric/assets/images/favicon.ico/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+<!-- Google Web Fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@700&family=Roboto:wght@300;400;700;900&family=Open+Sans:wght@300&display=swap" rel="stylesheet">
+
+
+	<!-- This site is optimized with the Yoast SEO plugin v14.2 - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta name="robots" content="noindex, follow" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:title" content="Page not found - G&amp;W Electric" />
+	<meta property="og:site_name" content="G&amp;W Electric" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.gwelectric.com/#website","url":"https://www.gwelectric.com/","name":"G&amp;W Electric","description":"English","potentialAction":[{"@type":"SearchAction","target":"https://www.gwelectric.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://www.gwelectric.com/webfoo/wp-includes/css/dist/block-library/style.min.css?ver=5.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='css-master-css'  href='https://www.gwelectric.com/webfoo/wp-content/themes/gwelectric/assets/css/master.min.css?ver=1644269554' type='text/css' media='all' />
+<link rel='stylesheet' id='css-override-css'  href='https://www.gwelectric.com/webfoo/wp-content/themes/gwelectric/assets/css/override.css?ver=1635789593' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css'  href='https://www.gwelectric.com/webfoo/wp-content/plugins/tablepress/css/default.min.css?ver=1.11' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.gwelectric.com/webfoo/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://www.gwelectric.com/webfoo/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://www.gwelectric.com/wp-json/' />
+<script src="https://www.googleoptimize.com/optimize.js?id=OPT-NBR3WR9"></script>
+
+<style>
+	body.home #featured-products .slick-tools-wrap {
+		display: none;
+	}
+</style>
+<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NX82SP6');</script>
+<!-- End Google Tag Manager -->
+
+
+</head>
+<body class="error404">
+
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NX82SP6"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+<div id="mobile-wrapper">
+    <div class="mobile-menu">
+        <ul class="language-selector">
+    <li class="menu-item-has-children">
+        Change Language:
+        <span class="current">
+            English            <ul class="sub-menu">
+
+				<li><a href="https://cn.gwelectric.com">简体中文</a></li><li><a href="https://es.gwelectric.com">Español</a></li><li><a href="https://pt.gwelectric.com">Português</a></li>                
+            </ul>
+        </span>
+    </li>
+</ul>
+
+        <ul id="main-menu-mobile" class="main clearfix"><li id="menu-item-4919" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4919"><a href="https://www.gwelectric.com/products/">Products</a>
+<ul class="sub-menu">
+	<li id="menu-item-4921" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4921"><a href="https://www.gwelectric.com/products/switchgear/">Switchgear</a></li>
+	<li id="menu-item-4922" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4922"><a href="https://www.gwelectric.com/products/distribution-reclosers-and-overhead-switches/">Distribution Reclosers and Overhead Switches</a></li>
+	<li id="menu-item-4924" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4924"><a href="https://www.gwelectric.com/products/current-limiting-system-protection/">Current Limiting System Protection</a></li>
+	<li id="menu-item-4925" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4925"><a href="https://www.gwelectric.com/products/power-grid-automation/">Power Grid Automation</a></li>
+	<li id="menu-item-4923" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4923"><a href="https://www.gwelectric.com/products/distribution-and-transmission-cable-accessories/">Distribution and Transmission Cable Accessories</a></li>
+	<li id="menu-item-4920" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4920"><a href="https://www.gwelectric.com/products/high-accuracy-sensors/">High Accuracy Sensors</a></li>
+	<li id="menu-item-4987" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4987"><a href="https://www.gwelectric.com/products/services/">Services</a></li>
+</ul>
+</li>
+<li id="menu-item-2495" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2495"><a href="https://www.gwelectric.com/about-us/">Our Company</a>
+<ul class="sub-menu">
+	<li id="menu-item-2578" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2578"><a href="https://www.gwelectric.com/about-us/history/">History</a></li>
+	<li id="menu-item-3284" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3284"><a href="https://www.gwelectric.com/about-us/guiding-principles/">Guiding Principles</a></li>
+	<li id="menu-item-5064" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5064"><a href="https://www.gwelectric.com/about-us/our-facilities/">Our Facilities</a></li>
+	<li id="menu-item-6633" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6633"><a href="https://www.gwelectric.com/events/">Events</a></li>
+	<li id="menu-item-6634" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6634"><a href="https://www.gwelectric.com/news/">News</a></li>
+</ul>
+</li>
+<li id="menu-item-2575" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2575"><a href="https://www.gwelectric.com/industries/">Industries</a>
+<ul class="sub-menu">
+	<li id="menu-item-2576" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2576"><a href="https://www.gwelectric.com/industries/commercial-industrial/">Commercial &#038; Industrial</a></li>
+	<li id="menu-item-2577" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2577"><a href="https://www.gwelectric.com/industries/utilities/">Utilities</a></li>
+</ul>
+</li>
+<li id="menu-item-2500" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2500"><a href="https://www.gwelectric.com/resources/">Resources</a>
+<ul class="sub-menu">
+	<li id="menu-item-3060" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3060"><a href="/resources/?resource-type%5B%5D=application-guides&#038;keyword=">Application Guides</a></li>
+	<li id="menu-item-12005" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-12005"><a href="https://www.gwelectric.com/blog/">Blog</a></li>
+	<li id="menu-item-5142" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5142"><a href="/resources/?resource-type%5B%5D=case-study&#038;keyword=">Case Studies</a></li>
+	<li id="menu-item-7438" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7438"><a href="/resources/?resource-type%5B%5D=financial-resources">Financial Resources</a></li>
+	<li id="menu-item-6583" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6583"><a href="/resources/?resource-type%5B%5D=product-literature&#038;keyword=">Product Literature</a></li>
+	<li id="menu-item-9909" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9909"><a href="/resources/?resource-type%5B%5D=software">Software</a></li>
+	<li id="menu-item-3061" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3061"><a href="/resources/?resource-type%5B%5D=specification&#038;keyword=">Specifications</a></li>
+	<li id="menu-item-3063" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3063"><a href="/resources/?resource-type%5B%5D=tcc-curves&#038;keyword=">TCC Curves</a></li>
+	<li id="menu-item-6584" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6584"><a href="/resources/?resource-type%5B%5D=technical-guide&#038;keyword=">Technical Guides</a></li>
+	<li id="menu-item-7014" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7014"><a href="/resources/?resource-type%5B%5D=video">Videos</a></li>
+	<li id="menu-item-3062" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3062"><a href="/resources/?resource-type%5B%5D=white-paper&#038;keyword=">White Papers</a></li>
+</ul>
+</li>
+<li id="menu-item-7360" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7360"><a href="https://www.gwelectric.com/careers/">Careers</a>
+<ul class="sub-menu">
+	<li id="menu-item-7361" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7361"><a href="https://www.gwelectric.com/careers/all-about-you/">All About You</a></li>
+	<li id="menu-item-7362" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7362"><a href="https://www.gwelectric.com/careers/applicant-experience/">Applicant Experience</a></li>
+	<li id="menu-item-7366" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7366"><a href="https://www.gwelectric.com/careers/culture/">Our Culture</a></li>
+	<li id="menu-item-7367" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7367"><a href="https://www.gwelectric.com/careers/internships/">Internships</a></li>
+	<li id="menu-item-7363" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7363"><a href="https://www.gwelectric.com/careers/career-fair-events/">Career Fair Events</a></li>
+	<li id="menu-item-12077" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12077"><a href="https://www.gwelectric.com/careers/career-opportunities/">Career Opportunities</a></li>
+</ul>
+</li>
+</ul>
+    	<form class="search-form" method="get" action="https://www.gwelectric.com/" role="search">
+    		<input type="search" name="s" aria-label="search for" class="search" value="" placeholder="Search G&amp;W Electric...">
+    		<i class="js_search fa fa-search fa-flip-horizontal" aria-hidden="true"></i>
+			<button type="submit" class="visuallyhidden"></button>
+    	</form>
+
+        
+    	<ul id="menu-top" class="quick-nav clearfix btns"><li id="menu-item-12004" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-12004"><a href="https://www.gwelectric.com/blog/" class="btn">Blog</a></li>
+<li id="menu-item-3286" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3286"><a href="https://www.gwelectric.com/contact-us/customer-support/" class="btn">Customer Support</a></li>
+<li id="menu-item-2494" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2494"><a href="https://www.gwelectric.com/contact-us/find-a-rep/" class="btn">Find A Representative</a></li>
+<li id="menu-item-2493" class="focus menu-item menu-item-type-post_type menu-item-object-page menu-item-2493"><a href="https://www.gwelectric.com/contact-us/" class="btn">Contact Us</a></li>
+</ul>
+    	    </div>
+</div>
+
+<header id="header">
+	<div class="top section">
+		<div class="container">
+			<div class="row">
+                <div class="col-4">
+
+                    <ul class="language-selector">
+    <li class="menu-item-has-children">
+        Change Language:
+        <span class="current">
+            English            <ul class="sub-menu">
+
+				<li><a href="https://cn.gwelectric.com">简体中文</a></li><li><a href="https://es.gwelectric.com">Español</a></li><li><a href="https://pt.gwelectric.com">Português</a></li>                
+            </ul>
+        </span>
+    </li>
+</ul>
+
+                </div>
+				<div class="col-8">
+
+	                <ul id="top-menu" class="quick-nav"><li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-12004"><a href="https://www.gwelectric.com/blog/">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3286"><a href="https://www.gwelectric.com/contact-us/customer-support/">Customer Support</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2494"><a href="https://www.gwelectric.com/contact-us/find-a-rep/">Find A Representative</a></li>
+<li class="focus menu-item menu-item-type-post_type menu-item-object-page menu-item-2493"><a href="https://www.gwelectric.com/contact-us/">Contact Us</a></li>
+</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="bot section">
+		<div class="container">
+			<div class="row">
+				<div class="col-12">
+					<div class="va-b">
+						<span class="fill"></span>
+
+						<div class="logo">
+							<a href="https://www.gwelectric.com">
+								<img class="lazy" loading="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://www.gwelectric.com/webfoo/wp-content/themes/gwelectric/assets/images/logo-min.png" data-srcset="https://www.gwelectric.com/webfoo/wp-content/themes/gwelectric/assets/images/logo-min.png 1x, https://www.gwelectric.com/webfoo/wp-content/themes/gwelectric/assets/images/logo-min@2x.png 2x" alt="G&W Electric">
+							</a>
+						</div>
+
+						<nav id="nav">
+
+			                <ul id="main-menu" class="main clearfix"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4919"><a href="https://www.gwelectric.com/products/">Products</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4921"><a href="https://www.gwelectric.com/products/switchgear/">Switchgear</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4922"><a href="https://www.gwelectric.com/products/distribution-reclosers-and-overhead-switches/">Distribution Reclosers and Overhead Switches</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4924"><a href="https://www.gwelectric.com/products/current-limiting-system-protection/">Current Limiting System Protection</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4925"><a href="https://www.gwelectric.com/products/power-grid-automation/">Power Grid Automation</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4923"><a href="https://www.gwelectric.com/products/distribution-and-transmission-cable-accessories/">Distribution and Transmission Cable Accessories</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4920"><a href="https://www.gwelectric.com/products/high-accuracy-sensors/">High Accuracy Sensors</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4987"><a href="https://www.gwelectric.com/products/services/">Services</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2495"><a href="https://www.gwelectric.com/about-us/">Our Company</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2578"><a href="https://www.gwelectric.com/about-us/history/">History</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3284"><a href="https://www.gwelectric.com/about-us/guiding-principles/">Guiding Principles</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5064"><a href="https://www.gwelectric.com/about-us/our-facilities/">Our Facilities</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6633"><a href="https://www.gwelectric.com/events/">Events</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6634"><a href="https://www.gwelectric.com/news/">News</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2575"><a href="https://www.gwelectric.com/industries/">Industries</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2576"><a href="https://www.gwelectric.com/industries/commercial-industrial/">Commercial &#038; Industrial</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2577"><a href="https://www.gwelectric.com/industries/utilities/">Utilities</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2500"><a href="https://www.gwelectric.com/resources/">Resources</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3060"><a href="/resources/?resource-type%5B%5D=application-guides&#038;keyword=">Application Guides</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-12005"><a href="https://www.gwelectric.com/blog/">Blog</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5142"><a href="/resources/?resource-type%5B%5D=case-study&#038;keyword=">Case Studies</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7438"><a href="/resources/?resource-type%5B%5D=financial-resources">Financial Resources</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6583"><a href="/resources/?resource-type%5B%5D=product-literature&#038;keyword=">Product Literature</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9909"><a href="/resources/?resource-type%5B%5D=software">Software</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3061"><a href="/resources/?resource-type%5B%5D=specification&#038;keyword=">Specifications</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3063"><a href="/resources/?resource-type%5B%5D=tcc-curves&#038;keyword=">TCC Curves</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6584"><a href="/resources/?resource-type%5B%5D=technical-guide&#038;keyword=">Technical Guides</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7014"><a href="/resources/?resource-type%5B%5D=video">Videos</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3062"><a href="/resources/?resource-type%5B%5D=white-paper&#038;keyword=">White Papers</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7360"><a href="https://www.gwelectric.com/careers/">Careers</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7361"><a href="https://www.gwelectric.com/careers/all-about-you/">All About You</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7362"><a href="https://www.gwelectric.com/careers/applicant-experience/">Applicant Experience</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7366"><a href="https://www.gwelectric.com/careers/culture/">Our Culture</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7367"><a href="https://www.gwelectric.com/careers/internships/">Internships</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7363"><a href="https://www.gwelectric.com/careers/career-fair-events/">Career Fair Events</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12077"><a href="https://www.gwelectric.com/careers/career-opportunities/">Career Opportunities</a></li>
+</ul>
+</li>
+</ul>
+							<form class="search-form" method="get" action="https://www.gwelectric.com/" role="search">
+								<input type="search" name="s" aria-label="search for" class="search" value="" placeholder="Search G&W Electric...">
+								<button type="submit" class="visuallyhidden"></button>
+							</form>
+
+							<div class="search-icons">
+								<i class="js_open_search fa fa-search fa-flip-horizontal" aria-hidden="true"></i>
+								<i class="js_close_search fa fa-times-circle" aria-hidden="true"></i>
+							</div>
+						</nav>
+
+						<div class="mobile-button va-m no-ani">
+							<div class="fill"></div>
+							<div class="btn">
+								<div class="va-m">
+									<ul class="hamburger clearfix">
+										<li class="t"></li>
+										<li class="m"></li>
+										<li class="b"></li>
+									</ul>
+									<span>Menu</span>
+								</div>
+							</div>
+						</div>
+
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</header>
+<div id="wrapper">
+
+	<div id="content">
+
+		<section id="breadcrumb" class="section nav-link">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+
+                <p><!-- Breadcrumb NavXT 6.4.0 -->
+<a property="item" typeof="WebPage" title="Go to G&amp;W Electric." href="https://www.gwelectric.com" class="home" ><span property="name">Home</span></a> / <span class="404 current-item">404</span></p>
+
+            </div>
+        </div>
+    </div>
+</section>
+
+<div id="content">
+
+    <section class="section padd-gl plain wysiwyg">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 offset-md-2">
+
+                    <h1></h1><p>Sorry, we can’t seem to find the page you’re searching for. Please check the address or return to the <a href="/">homepage</a>.</p>
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+</div>
+
+    </div>
+    
+    <footer id="footer" class="shaded-color-1">
+        <div class="top section shaded-color-1-dark">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-md-8 col-xl-6">
+                    	
+                        	                            <div class="heading">Subscribe to our emails for the latest news on all our products, services and solutions.</div>
+                            
+                        	
+                        
+                            <div class="newsletter_signup">
+
+                            	                                
+                <div class='gf_browser_chrome gform_wrapper' id='gform_wrapper_7' ><div id='gf_7' class='gform_anchor' tabindex='-1'></div><form method='post' enctype='multipart/form-data' target='gform_ajax_frame_7' id='gform_7'  action='/webfoo/wp-content/themes/gwelectric/assets/images/bg-pattern-dots@2x.png#gf_7'>
+                        <div class='gform_body'><ul id='gform_fields_7' class='gform_fields top_label form_sublabel_below description_below'><li id='field_7_1'  class='gfield field_sublabel_below field_description_below gfield_visibility_visible' ><label class='gfield_label' for='input_7_1' >Email</label><div class='ginput_container ginput_container_email'>
+                            <input name='input_1' id='input_7_1' type='text' value='' class='form-control medium' tabindex='99'  placeholder='Enter your email address'  aria-invalid="false" />
+                        </div></li><li id='field_7_2'  class='gfield gform_validation_container field_sublabel_below field_description_below gfield_visibility_visible' ><label class='gfield_label' for='input_7_2' >Name</label><div class='ginput_container'><input name='input_2' id='input_7_2' type='text' value='' /></div><div class='gfield_description' id='gfield_description__2'>This field is for validation purposes and should be left unchanged.</div></li>
+                            </ul></div>
+        <div class='gform_footer top_label'> <button  id="gform_submit_button_7" data-event="MOV_Subscribe" class="btn" data-label="Newsletter Email Subscribe">Subscribe</button> <input type='hidden' name='gform_ajax' value='form_id=7&amp;title=&amp;description=&amp;tabindex=99' />
+            <input type='hidden' class='gform_hidden' name='is_submit_7' value='1' />
+            <input type='hidden' class='gform_hidden' name='gform_submit' value='7' />
+            
+            <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+            <input type='hidden' class='gform_hidden' name='state_7' value='WyJbXSIsIjNiNjY2Y2ViYzJjMjQ2MThkZThmZGNiMTUxMDZjNGM4Il0=' />
+            <input type='hidden' class='gform_hidden' name='gform_target_page_number_7' id='gform_target_page_number_7' value='0' />
+            <input type='hidden' class='gform_hidden' name='gform_source_page_number_7' id='gform_source_page_number_7' value='1' />
+            <input type='hidden' name='gform_field_values' value='' />
+            
+        </div>
+                        </form>
+                        </div>
+                <iframe style='display:none;width:0px;height:0px;' src='about:blank' name='gform_ajax_frame_7' id='gform_ajax_frame_7' title='This iframe contains the logic required to handle Ajax powered Gravity Forms.'></iframe>
+                <script type='text/javascript'>jQuery(document).ready(function($){gformInitSpinner( 7, 'https://www.gwelectric.com/webfoo/wp-content/plugins/gravityforms/images/spinner.gif' );jQuery('#gform_ajax_frame_7').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_7');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_7').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_7').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_7').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_7').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_7').offset().top - mt); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_7').val();gformInitSpinner( 7, 'https://www.gwelectric.com/webfoo/wp-content/plugins/gravityforms/images/spinner.gif' );jQuery(document).trigger('gform_page_loaded', [7, current_page]);window['gf_submitting_7'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}setTimeout(function(){jQuery('#gform_wrapper_7').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_7').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [7]);window['gf_submitting_7'] = false;}, 50);}else{jQuery('#gform_7').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger('gform_post_render', [7, current_page]);} );} );</script><script type='text/javascript'> jQuery(document).bind('gform_post_render', function(event, formId, currentPage){if(formId == 7) {if(typeof Placeholders != 'undefined'){
+                        Placeholders.enable();
+                    }} } );jQuery(document).bind('gform_post_conditional_logic', function(event, formId, fields, isInit){} );</script><script type='text/javascript'> jQuery(document).ready(function(){jQuery(document).trigger('gform_post_render', [7, 1]) } ); </script>                            </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="bot section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+
+                        <div class="footer-links">
+                            <ul id="menu-footer" class="clearfix"><li id="menu-item-2503" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2503"><a href="https://www.gwelectric.com/about-us/">Our Company</a>
+<ul class="sub-menu">
+	<li id="menu-item-3288" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3288"><a href="https://www.gwelectric.com/industries/">Industries</a></li>
+	<li id="menu-item-2579" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2579"><a href="https://www.gwelectric.com/about-us/history/">History</a></li>
+	<li id="menu-item-3287" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3287"><a href="https://www.gwelectric.com/about-us/guiding-principles/">Guiding Principles</a></li>
+	<li id="menu-item-5065" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5065"><a href="https://www.gwelectric.com/about-us/our-facilities/">Our Facilities</a></li>
+	<li id="menu-item-6631" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6631"><a href="https://www.gwelectric.com/events/">Events</a></li>
+	<li id="menu-item-6632" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6632"><a href="https://www.gwelectric.com/news/">News</a></li>
+</ul>
+</li>
+<li id="menu-item-4918" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4918"><a href="https://www.gwelectric.com/products/">Products</a>
+<ul class="sub-menu">
+	<li id="menu-item-4926" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4926"><a href="https://www.gwelectric.com/products/current-limiting-system-protection/">Current Limiting System Protection</a></li>
+	<li id="menu-item-4929" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4929"><a href="https://www.gwelectric.com/products/distribution-reclosers-and-overhead-switches/">Distribution Reclosers and Overhead Switches</a></li>
+	<li id="menu-item-4930" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4930"><a href="https://www.gwelectric.com/products/distribution-and-transmission-cable-accessories/">Distribution and Transmission Cable Accessories</a></li>
+	<li id="menu-item-4927" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4927"><a href="https://www.gwelectric.com/products/high-accuracy-sensors/">High Accuracy Sensors</a></li>
+	<li id="menu-item-4931" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4931"><a href="https://www.gwelectric.com/products/power-grid-automation/">Power Grid Automation</a></li>
+	<li id="menu-item-4928" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4928"><a href="https://www.gwelectric.com/products/switchgear/">Switchgear</a></li>
+	<li id="menu-item-4986" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4986"><a href="https://www.gwelectric.com/products/services/">Services</a></li>
+</ul>
+</li>
+<li id="menu-item-2501" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2501"><a href="https://www.gwelectric.com/resources/">Resources</a>
+<ul class="sub-menu">
+	<li id="menu-item-3056" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3056"><a href="/resources/?resource-type%5B%5D=application-guides&#038;keyword=">Application Guides</a></li>
+	<li id="menu-item-5141" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5141"><a href="/resources/?resource-type%5B%5D=case-study&#038;keyword=">Case Studies</a></li>
+	<li id="menu-item-7439" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7439"><a href="/resources/?resource-type%5B%5D=financial-resources">Financial Resources</a></li>
+	<li id="menu-item-6587" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6587"><a href="/resources/?resource-type%5B%5D=product-literature&#038;keyword=">Product Literature</a></li>
+	<li id="menu-item-3057" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3057"><a href="/resources/?resource-type%5B%5D=specification&#038;keyword=">Specifications</a></li>
+	<li id="menu-item-3059" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3059"><a href="/resources/?resource-type%5B%5D=tcc-curves&#038;keyword=">TCC Curves</a></li>
+	<li id="menu-item-6585" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6585"><a href="/resources/?resource-type%5B%5D=technical-guide&#038;keyword=">Technical Guides</a></li>
+	<li id="menu-item-7015" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7015"><a href="/resources/?resource-type%5B%5D=video">Videos</a></li>
+	<li id="menu-item-3058" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3058"><a href="/resources/?resource-type%5B%5D=white-paper&#038;keyword=">White Papers</a></li>
+</ul>
+</li>
+<li id="menu-item-2580" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2580"><a href="https://www.gwelectric.com/careers/">Careers</a>
+<ul class="sub-menu">
+	<li id="menu-item-2581" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2581"><a href="https://www.gwelectric.com/careers/all-about-you/">All About You</a></li>
+	<li id="menu-item-3199" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3199"><a href="https://www.gwelectric.com/careers/applicant-experience/">Applicant Experience</a></li>
+	<li id="menu-item-2582" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2582"><a href="https://www.gwelectric.com/careers/culture/">Our Culture</a></li>
+	<li id="menu-item-3290" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3290"><a href="https://www.gwelectric.com/careers/internships/">Internships</a></li>
+	<li id="menu-item-3289" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3289"><a href="https://www.gwelectric.com/careers/career-fair-events/">Career Fair Events</a></li>
+	<li id="menu-item-12091" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12091"><a href="https://www.gwelectric.com/careers/career-opportunities/">Career Opportunities</a></li>
+</ul>
+</li>
+<li id="menu-item-2504" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2504"><a href="https://www.gwelectric.com/contact-us/">Contact Us</a>
+<ul class="sub-menu">
+	<li id="menu-item-3085" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3085"><a href="https://www.gwelectric.com/contact-us/customer-support/">Customer Support</a></li>
+	<li id="menu-item-2505" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2505"><a href="https://www.gwelectric.com/contact-us/find-a-rep/">Find a Rep</a></li>
+	<li id="menu-item-5234" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5234"><a href="/sales-portal/">Sales Portal</a></li>
+</ul>
+</li>
+</ul>                        </div>
+
+                        <div class="copy">
+                            		                    <p>&copy; 2022. All rights reserved.  <span class="nav-divider">|</span> <a href="https://www.gwelectric.com/privacy-policy/">Privacy Policy</a>
+ <span class="nav-divider">|</span> <a href="https://www.gwelectric.com/terms/">Terms &amp; Conditions</a>
+ <span class="nav-divider">|</span> <a href="https://www.gwelectric.com/accessibility/">Accessibility</a>
+ <span class="nav-divider">|</span> <a href="https://www.gwelectric.com/credit-supplier-forms/">Supplier Request</a>
+ <span class="nav-divider">|</span> <a target="_blank" rel="noopener noreferrer" href="/webfoo/wp-content/uploads/Inbound-Transportation-Routing-Instructions.pdf">Inbound Transportation Routing</a>
+</p>
+                            <div class="social">
+                                <a href="https://www.facebook.com/GWElectricCompany/" class="facebook" title="Facebook" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                                <a href="https://twitter.com/GW_Electric" class="twitter" title="Twitter" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                                <a href="https://www.instagram.com/gwelectric/" class="instagram" title="Instagram" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+                                <a href="https://www.youtube.com/user/gwelecco" class="youtube" title="YouTube" target="_blank"><i class="fa fa-youtube" aria-hidden="true"></i></a>
+                                <a href="https://www.linkedin.com/company/g&w-electric-co-/" class="linkedin" title="LinkedIn" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+</div>
+
+
+<script type="text/javascript">
+/*<![CDATA[*/
+(function() {
+              var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+              sz.src = '//siteimproveanalytics.com/js/siteanalyze_6275217.js';
+              var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+})();
+/*]]>*/
+</script><link rel='stylesheet' id='gforms_reset_css-css'  href='https://www.gwelectric.com/webfoo/wp-content/plugins/gravityforms/css/formreset.min.css?ver=2.4.18' type='text/css' media='all' />
+<link rel='stylesheet' id='gforms_formsmain_css-css'  href='https://www.gwelectric.com/webfoo/wp-content/plugins/gravityforms/css/formsmain.min.css?ver=2.4.18' type='text/css' media='all' />
+<link rel='stylesheet' id='gforms_ready_class_css-css'  href='https://www.gwelectric.com/webfoo/wp-content/plugins/gravityforms/css/readyclass.min.css?ver=2.4.18' type='text/css' media='all' />
+<link rel='stylesheet' id='gforms_browsers_css-css'  href='https://www.gwelectric.com/webfoo/wp-content/plugins/gravityforms/css/browsers.min.css?ver=2.4.18' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajax_object = {"ajaxurl":"https:\/\/www.gwelectric.com\/webfoo\/wp-admin\/admin-ajax.php","nonce":"b60a58d9da"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.gwelectric.com/webfoo/wp-content/plugins/moveo-gravity-forms-act-on-integration/js/main.js?ver=20190107'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajax_object = {"ajaxurl":"https:\/\/www.gwelectric.com\/webfoo\/wp-admin\/admin-ajax.php","nonce":"e7447496d1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.gwelectric.com/webfoo/wp-content/plugins/moveo-gravity-forms-gdpr/js/main.js?ver=20180822'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var alm_localize = {"ajaxurl":"https:\/\/www.gwelectric.com\/webfoo\/wp-admin\/admin-ajax.php","alm_nonce":"280b0d651e","rest_api":"https:\/\/www.gwelectric.com\/wp-json\/","rest_nonce":"cf6a1cfb8d","pluginurl":"https:\/\/www.gwelectric.com\/webfoo\/wp-content\/plugins\/ajax-load-more","speed":"200","ga_debug":"false","results_text":"Viewing {post_count} of {total_posts} results.","no_results_text":"No results found.","alm_debug":"","a11y_focus":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.gwelectric.com/webfoo/wp-content/plugins/ajax-load-more/core/dist/js/ajax-load-more.min.js?ver=5.3.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var js_trans = {"selectOptions":"Select options","search":"Search","selectedOptions":"0","selectAll":"Select all","unselectAll":"Unselect All","noneSelected":"None Selected"};
+var WPURLS = {"templateurl":"https:\/\/www.gwelectric.com\/webfoo\/wp-content\/themes\/gwelectric","blogname":"G&W Electric","ajaxurl":"https:\/\/www.gwelectric.com\/webfoo\/wp-admin\/admin-ajax.php","defaultcountry":"7"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.gwelectric.com/webfoo/wp-content/themes/gwelectric/assets/scripts/master.min.js?ver=1644250718'></script>
+<script type='text/javascript' src='https://www.gwelectric.com/webfoo/wp-content/themes/gwelectric/assets/scripts/override.js?ver=1639152838'></script>
+<script type='text/javascript' src='https://www.gwelectric.com/webfoo/wp-content/plugins/page-links-to/dist/new-tab.js?ver=3.3.3'></script>
+<script type='text/javascript' src='https://www.gwelectric.com/webfoo/wp-includes/js/wp-embed.min.js?ver=5.4.9'></script>
+<script type='text/javascript' src='https://www.gwelectric.com/webfoo/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.4.18'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","symbol_right":"","symbol_padding":"","thousand_separator":",","decimal_separator":".","decimals":2},"base_url":"https:\/\/www.gwelectric.com\/webfoo\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"https:\/\/www.gwelectric.com\/webfoo\/wp-content\/plugins\/gravityforms\/images\/spinner.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.gwelectric.com/webfoo/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=2.4.18'></script>
+<script type='text/javascript' src='https://www.gwelectric.com/webfoo/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js?ver=2.4.18'></script>
+
+
+
+<script type="text/javascript">
+piAId = '702023';
+piCId = '1259';
+piHostname = 'pi.pardot.com';
+(function() {
+function async_load(){
+var s = document.createElement('script'); s.type = 'text/javascript';
+s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') +
+'.pardot.com/pd.js';
+var c = document.getElementsByTagName('script')[0];
+c.parentNode.insertBefore(s, c);
+}
+if(window.attachEvent) { window.attachEvent('onload', async_load); }
+else { window.addEventListener('load', async_load, false); }
+})();
+</script>
+
+<script type="text/javascript">
+	_linkedin_partner_id = "1226098";
+	window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+	window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script>
+<script type="text/javascript">
+	(function(){var s = document.getElementsByTagName("script")[0];
+	var b = document.createElement("script");
+	b.type = "text/javascript";b.async = true;
+	b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+	s.parentNode.insertBefore(b, s);})();
+</script>
+<noscript>
+	<img class="lazy" height="1" width="1" style="display:none;" alt="" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://px.ads.linkedin.com/collect/?pid=1226098&fmt=gif" />
+</noscript>
+
+
+<script>window.w3tc_lazyload=1,window.lazyLoadOptions={elements_selector:".lazy",callback_loaded:function(t){var e;try{e=new CustomEvent("w3tc_lazyload_loaded",{detail:{e:t}})}catch(a){(e=document.createEvent("CustomEvent")).initCustomEvent("w3tc_lazyload_loaded",!1,!1,{e:t})}window.dispatchEvent(e)}}</script><script async src="https://www.gwelectric.com/webfoo/wp-content/plugins/w3-total-cache/pub/js/lazyload.min.js"></script></body>
+</html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Lazy Loading
+
+Served from: www.gwelectric.com @ 2022-02-20 19:00:13 by W3 Total Cache
+-->

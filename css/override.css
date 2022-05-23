@@ -1,0 +1,203 @@
+/*--------------------------------------------------------------------------------------------------
+////////////////////////////////////////////////////////////////////////////////////////////////////
+//  STYLE OVERRIDES
+////////////////////////////////////////////////////////////////////////////////////////////////////
+--------------------------------------------------------------------------------------------------*/
+/* Bottom menu */
+.bot p a:last-child .nav-divider { display:none; }
+
+/* Edit links */
+#content a.post-edit-link { position: absolute; top: 0; right: 0; padding: 10px; display: none !important; background: white; border: 1px dotted; color: black; }
+#content .post-preview:hover a.post-edit-link { display: block !important; }
+
+/* ACF Google Map */
+.acf-map { width: 100%; height: 400px; border: #ccc solid 1px; margin: 20px 0; }
+.acf-map img { max-width: inherit !important; } /* fixes potential theme css conflict */
+
+/* ADA stuffs */
+*:focus {
+    outline: 2px solid #1279c5 !important;
+}
+.visuallyhidden {
+	visibility: hidden;
+}
+
+/* WYSWYIG */
+/* .wysiwyg .post-text .alignright { margin-right: 0; } */
+/* .wysiwyg .post-text .alignleft  { margin-left: 0; margin-top: 10px; margin-bottom: 20px; margin-right: 4%; } */
+
+/* Load More */
+#ajax-load-more .alm-load-more-btn.done{
+   display: none;
+}
+
+/* Tables */
+
+.tablepress td, .tablepress th {
+	font-size: 1.3em;
+}
+/*
+#content .tablepress {
+    border-bottom: 1px solid #ccc;
+    border-left: 1px solid #ccc;
+}
+
+#content .display-box .bot .tablepress {
+    border: none;
+}
+#content .tablepress th,
+#content .tablepress td,
+
+.tablepress .th,
+.tablepress .td,
+#content .display-box .bot .tablepress  {
+	border-top: 1px solid #ccc;
+	border-right: 1px solid #ccc;
+}
+*/
+
+#content .tablepress img { max-width: 100%; height: auto; }
+
+/* Multiselect filters */
+.ms-options-wrap > button:focus, .ms-options-wrap > button { border: 1px solid #ccc; border-radius: 4px; padding: 14px 10px; font-size: 1.6em; }
+.ms-options-wrap > .ms-options ul li { padding: 0; margin: 0; font-size: 1em; }
+.ms-options-wrap > .ms-options ul li label.focused { background-color: transparent; border-color: transparent; }
+.ms-options-wrap > .ms-options ul li.selected label.focused { background-color: #efefef; border-color: transparent; }
+#content .ms-options-wrap > .ms-options ul li label { margin-bottom: 1px; }
+.ms-options-wrap > .ms-options > .ms-selectall.global { width: 100%; font-size: 1.5em; text-transform: capitalize; }
+
+/* Reps Styles
+.cpt-reps   { border: 2px solid #f3f3f3; padding:10%; line-height:0.9; }
+.cpt-reps b { font-weight:800; }
+.cpt-reps a { color:#6e6259; text-decoration:underline; }
+*/
+/* Portal Override Styles */
+
+li.gchoice_3_1 { width:100% !important; }
+
+
+/*
+#resources.nopics .post-preview,#news.nopics .post-preview { margin-top:30px; padding-bottom:30px; border-bottom:1px solid #aaa; }
+#resources.nopics .post-icon img,#news.nopics .post-icon img { max-height: 60px; vertical-align: middle; }
+#resources.nopics .post-details > *,#news.nopics .post-details > * { margin-top: 10px; }
+#resources.nopics div.resource_types,#news.nopics div.resource_types { color:#1279c5; text-transform:uppercase; font-size: 1.2em; }
+#resources.nopics div.post-btn,#news.nopics div.post-btn { float:right; border: 1px solid #74aa50; margin-left:10px; }
+#resources.nopics a.post-edit-link,#news.nopics a.post-edit-link { right:50px; }
+#resources.nopics .post-btn i:last-child,#news.nopics .post-btn i:last-child { margin: 10px; font-size:1.5em; }
+*/
+
+/*
+body.portal .section.padd-md .row.columns:first-child, body.portal .section.padd-md .row + .row { margin-top:0; }
+body.portal .alm-btn-wrap .alm-load-more-btn { background-color: #74aa50; }
+body.portal .filter.shaded.box-md { border-top: 3px solid #1279c5; }
+body.portal .filter.shaded.box-md label { margin-top: 20px; font-size: 1.4em; }
+body.portal .input-icon i { color: #74aa50; }
+body.portal #news .post-details { padding-right:0; }
+*/
+
+/* body.portal div.customPaging { display:none; } */
+
+body.page-template-template-portal-resources a.post-edit-link,body.page-template-template-portal-news a.post-edit-link { right:50px !important; }
+
+div.gf_login_links a { color: #6e6259; text-decoration:underline; font-size:1.2em; }
+
+#select-language p { font-size: 1.2em; line-height: 25px; }
+#select-language p, #select-language form { float: left; margin: 5px 10px 5px 0; }
+#multilingualpress-language-switcher { width: 200px; height: 25px; padding: 0; font-size: 1.2em; }
+.is-scrolling #select-language p, .is-scrolling #select-language form { margin-top: 0; }
+
+
+#header.portal .logo img { max-width: 125px;}
+
+/* Reps pages overrides */
+
+body.parent-pageid-2486 #content-column_blocks-1 .row { max-width: 1000px; margin: auto;}
+body.parent-pageid-2486 #content-column_blocks-1 .columns .post-preview { background-color:#eee; padding: 30px; }
+body.parent-pageid-2486 #content-column_blocks-1 .columns .post-image { padding-top: 60px;}
+body.parent-pageid-2486 #content-column_blocks-1 .columns .post-title { display: flex; align-items: center; justify-content: center;}
+body.parent-pageid-2486 #content-column_blocks-1 div.background { transform: scale(1); background-size:contain; }
+
+#reps_pic { margin-top:40px; }
+#footer .copy a {
+    color: #000;
+}
+
+
+
+
+/* Custom code from G&W */
+
+
+/* THIS CODE WILL HIDE THE SEARCH BAR TO BE DISPLAYED VIA GOOGLE OPTIMIZE */
+.home #banner .search-form { display: none!important; }
+/* END HIDE CODE */
+
+.home #banner {
+    padding-bottom: 170px;
+}
+
+.home #banner .post-text {
+    width: 100%;
+    max-width: 100%;
+    margin-top: 20px;
+}
+
+.home #banner .search-form {
+    margin-top: 20px!important;
+    overflow: hidden;
+    border-radius: 500px;
+    height: 70px;
+    max-width: 700px;
+}
+
+.home #banner .search-form input[type="search"] {
+    padding: 10px 20px;
+    height: 70px;
+    border-radius: 500px;
+}
+
+.home #banner .search-form button {
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    height: calc(100% - 10px);
+    padding: 0 20px;
+    border: none;
+    background: #55803c;
+    border-radius: 500px;
+    transition: all ease 0.3s;
+}
+
+.home #banner .search-form button:hover {
+    background: #3f6827;
+}
+
+.home #banner .search-form button i {
+    position: relative;
+    padding: 0;
+    color: #fff;
+}
+
+.home #banner .search-form button i {
+    position: relative;
+    padding: 0;
+    color: #fff;
+}
+
+.home #banner .search-form button::after {
+    content: "Search Products";
+    font-size: 20px;
+    color: #fff;
+    font-weight: 700;
+    margin-left: 10px;
+}
+
+@media only screen and (max-width:500px) {
+  .home #banner .search-form button::after {
+    content: "Search";
+  }
+
+  .home #banner {
+    padding-bottom: 15px;
+  }
+}
